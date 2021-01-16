@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anythink
 - 📫 How to reach me: [MyWebSite](https://haitham-oumerzoug.com)
 
-![Haitham's github stats](https://github-readme-stats.vercel.app/api?username=HaithamOumerzoug)
+![Haitham's github stats](https://github-readme-stats.vercel.app/api?username=HaithamOumerzoug&show_icons=true&theme=dark)
