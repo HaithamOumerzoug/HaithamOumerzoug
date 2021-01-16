@@ -9,5 +9,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anythink
 - 📫 How to reach me: MyWebSite(https://haitham-oumerzoug.com)
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HaithaOumerzoug)](https://github.com/HaithamOumerzoug/HaithamOumerzoug/blob/main/README.md)
+(https://github-readme-stats.vercel.app/api?username=HaithamOumerzoug)
