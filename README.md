@@ -1,7 +1,5 @@
 ### Haitham OUMERZOUG 👋
-
-
-Here are some ideas to get you started:
+I'm Haitham OUMERZOUG 22 years , FullStack developer  
 
 - 🔭 I’m currently working on web applications
 - 🌱 I’m currently learning Java Spring
