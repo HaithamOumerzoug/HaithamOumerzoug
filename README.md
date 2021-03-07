@@ -11,6 +11,6 @@ I'm Haitham OUMERZOUG 22 years , FullStack developer
 
 ## 📚 Languages && Tools:
 
-<img align="left" src="Logo/php.png" width="50" height="50" /> 
-<img align="left" style="margin-right:8px" src="Logo/java.svg" width="40" height="50" />
-<img align="left" style="margin-top:2px" src="Logo/javascript.svg" width="40" height="50"/> 
+<img align="left" title="PHP" src="Logo/php.png" width="50" height="50" /> 
+<img align="left" title="Java" style="margin-right:8px" src="Logo/java.svg" width="40" height="50" />
+<img align="left" title="Javascript" style="margin-top:5px" src="Logo/javascript.svg" width="40" height="50"/> 
