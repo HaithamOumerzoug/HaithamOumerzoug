@@ -3,7 +3,7 @@ I'm Haitham OUMERZOUG 22 years , FullStack developer
 
 - 🔭 I’m currently working on web applications
 - 🌱 I’m currently learning Java | JEE | Spring 
-- 👯 I’m looking to collaborate in other projects using PHP ,Laravel, Vue.js and also Java
+- 👯 I’m looking to collaborate in other projects using JavaScript ,Node.js, React.js
 - 💬 Ask me about anythink
 - 📫 How to reach me: [MyWebSite](https://haitham-oumerzoug.com)
 
