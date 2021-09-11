@@ -29,9 +29,15 @@ I'm Haitham OUMERZOUG 22 years , FullStack developer
 <img alt="Contact manager"src="https://github-readme-stats.vercel.app/api/pin/?username=HaithamOumerzoug&repo=contact-manager-react-redux&theme=dark">
 </a>
 
+<a href="https://github.com/HaithamOumerzoug/Hosmoa-Bank-Front">
+<img alt="Hosmoa-Bank-Front" src="https://github-readme-stats.vercel.app/api/pin/?username=HaithamOumerzoug&repo=Hosmoa-Bank-Front&theme=dark">
+</a>
+<a href="https://github.com/HaithamOumerzoug/Saroot">
+<img alt="Saroot" src="https://github-readme-stats.vercel.app/api/pin/?username=HaithamOumerzoug&repo=Saroot&theme=dark">
+</a>
 
 <a href="https://github.com/HaithamOumerzoug/Co-voiturage-JavaFX">
-<img alt="Carpooling" src="https://github-readme-stats.vercel.app/api/pin/?username=HaithamOumerzoug&repo=Co-voiturage-JavaFX&theme=dark">
+<img alt="Co-voiturage-JavaFX" src="https://github-readme-stats.vercel.app/api/pin/?username=HaithamOumerzoug&repo=Co-voiturage-JavaFX&theme=dark">
 </a>
 
 <a href="https://github.com/HaithamOumerzoug/Opticienne-Laravel-Vue.js">
