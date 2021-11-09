@@ -1,5 +1,5 @@
 ### Haitham OUMERZOUG 👋
-I'm Haitham OUMERZOUG 22 years , FullStack developer  
+I'm Haitham OUMERZOUG 22 years , FullStack engineer  
 
 -  I’m currently working on web applications
 -  I’m currently learning Java | JEE | Spring 
