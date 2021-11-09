@@ -1,7 +1,7 @@
 ### Haitham OUMERZOUG 👋
 I'm Haitham OUMERZOUG 22 years , FullStack engineer  
 
--  I’m currently working on web applications
+-  I’m currently working on web and mobile applications
 -  I’m currently learning Java | JEE | Spring 
 -  I’m looking for End of Studies Internship in (Web || Mobile) development ( (Spring Boot || NodeJs) && (Angular || React) ) || (Android Studio || React Native) 
 -  How to reach me: 
