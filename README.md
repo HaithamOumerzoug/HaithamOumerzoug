@@ -2,7 +2,7 @@
 I'm Haitham OUMERZOUG 23 years , FullStack engineer  
 
 -  I’m currently working on web and mobile applications
--  I’m currently learning nestjs framework 🐈
+-  I’m currently code in nestjs framework 🐈
 
 <a href="https://www.linkedin.com/in/haitham-oumerzoug/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
