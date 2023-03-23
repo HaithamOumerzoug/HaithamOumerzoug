@@ -1,5 +1,5 @@
 ### Haitham OUMERZOUG 👋
-I'm Haitham OUMERZOUG 23 years , FullStack engineer  
+I'm Haitham OUMERZOUG 24 years , FullStack engineer  
 
 -  I’m currently working on web and mobile applications
 -  I’m currently code in nestjs framework 🐈
@@ -32,6 +32,7 @@ I'm Haitham OUMERZOUG 23 years , FullStack engineer
 <a href="https://nodejs.com/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>
 <a href="https://nestjs.org/" title="Nest"><img src="https://github.com/get-icon/geticon/raw/master/icons/nestjs.svg" alt="Nest" width="21px" height="21px"></a>
 <a href="https://expressjs.com/" title="Express"><img src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" alt="Express" width="21px" height="21px"></a>
+<a href="https://graphql.com/" title="GraphQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/graphql.svg" alt="GraphQL" width="21px" height="21px"></a>
 <a href="https://www.electronjs.org/" title="Electron"><img src="https://github.com/get-icon/geticon/raw/master/icons/electron.svg" alt="Electron" width="21px" height="21px"></a>
 <a href="https://php.net/" title="PHP"><img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" alt="PHP" width="21px" height="21px"></a>
 <a href="https://laravel.com/" title="Laravel"><img src="https://github.com/get-icon/geticon/raw/master/icons/laravel.svg" alt="Laravel" width="21px" height="21px"></a>
