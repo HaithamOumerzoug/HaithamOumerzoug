@@ -1,8 +1,9 @@
 ### Haitham OUMERZOUG 👋
-I'm Haitham OUMERZOUG 24 years , FullStack engineer  
+I'm Haitham OUMERZOUG, FullStack engineer  
 
 -  I’m currently working on web and mobile applications
 -  I’m currently code in Nestjs/Vue.js frameworks 🐈
+-  I'm currently learning GraphQL
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
