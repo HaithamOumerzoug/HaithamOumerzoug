@@ -1,20 +1,18 @@
 ### Haitham OUMERZOUG 👋
-I'm Haitham OUMERZOUG, FullStack engineer  
 
--  I’m currently working on web and mobile applications
--  I’m currently code in Nestjs/Vue.js frameworks and GraphQL🐈 
+I'm Haitham OUMERZOUG, FullStack engineer
+
+- I’m currently working on web and mobile applications
+- I’m currently code in Nestjs/Nuxt.js frameworks and GraphQL🐈
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
-
-![Haitham's github stats](https://github-readme-stats.vercel.app/api?username=HaithamOumerzoug&layout=compact&show_icons=true&theme=dark) 
-
+![Haitham's github stats](https://github-readme-stats.vercel.app/api?username=HaithamOumerzoug&layout=compact&show_icons=true&theme=dark)
 
 ## 📚 Languages :
 
 <img alt="JavaScript in road..." src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaithamOumerzoug&layout=compact&theme=dark">
 <br/>
-
 
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
@@ -22,6 +20,7 @@ I'm Haitham OUMERZOUG, FullStack engineer
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
 <a href="https://redux.js.org/" title="Redux"><img src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg" alt="Redux" width="21px" height="21px"></a>
 <a href="https://vuejs.org/" title="Vue.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/vue.svg" alt="Vue.js" width="21px" height="21px"></a>
+<a href="https://nuxt.com/" title="Nuxt.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nuxt.svg" alt="Nuxt.js" width="40px" height="21px"></a>
 <a href="https://angular.io/" title="Angular"><img src="https://github.com/get-icon/geticon/raw/master/icons/angular-icon.svg" alt="Angular" width="21px" height="21px"></a>
 <a href="https://rxjs.dev/" title="RxJS"><img src="https://github.com/get-icon/geticon/raw/master/icons/reactivex.svg" alt="RxJS" width="21px" height="21px"></a>
 <a href="https://jquery.com/" title="jQuery"><img src="https://github.com/get-icon/geticon/raw/master/icons/jquery-icon.svg" alt="jQuery" width="21px" height="21px"></a>
@@ -91,7 +90,6 @@ I'm Haitham OUMERZOUG, FullStack engineer
 <img alt="Opt" src="https://github-readme-stats.vercel.app/api/pin/?username=HaithamOumerzoug&repo=Opticienne-Laravel-Vue.js&theme=dark">
 </a>
 </div>
-
 
 ---
 
