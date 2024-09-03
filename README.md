@@ -6,6 +6,7 @@ I'm Haitham OUMERZOUG, FullStack engineer
 - I’m currently code in Nestjs/Nuxt.js frameworks and GraphQL🐈
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img src="https://img.shields.io/badge/x-%230077B5.svg?&style=for-the-badge&logo=x&logoColor=white" />][X]
 
 ![Haitham's github stats](https://github-readme-stats.vercel.app/api?username=HaithamOumerzoug&layout=compact&show_icons=true&theme=dark)
 
@@ -95,3 +96,4 @@ I'm Haitham OUMERZOUG, FullStack engineer
 
 [website]: https://github.com/HaithamOumerzoug
 [linkedin]: https://www.linkedin.com/in/haitham-oumerzoug/
+[X]: https://x.com/HaithamOumer
