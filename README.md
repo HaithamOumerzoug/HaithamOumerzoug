@@ -3,7 +3,8 @@
 I'm Haitham OUMERZOUG, FullStack engineer
 
 - I’m currently working on web and mobile applications
-- I’m currently code in Nestjs/Nuxt.js frameworks and GraphQL🐈
+- I’m currently code in NestJs/Vue.js frameworks and GraphQL🐈
+- I’m currently learning Deno
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img src="https://img.shields.io/badge/x-%230077B5.svg?&style=for-the-badge&logo=x&logoColor=white" />][X]
