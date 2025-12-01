@@ -66,34 +66,6 @@ I'm Haitham OUMERZOUG, FullStack engineer
 <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" alt="Adobe Photoshop" width="21px" height="21px"></a>
 <a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-illustrator.svg" alt="Adobe Illustrator" width="21px" height="21px"></a>
 <br/>
-
-## Main projects :
-
-<div>
-<a href="https://github.com/HaithamOumerzoug/ToDoList-ReactJS-NodeJS">
-<img alt="ToDoList" src="https://github-readme-stats.vercel.app/api/pin/?username=HaithamOumerzoug&repo=ToDoList-ReactJS-NodeJS&theme=dark">
-</a>
-
-<a href="https://github.com/HaithamOumerzoug/contact-manager-react-redux">
-<img alt="Contact manager"src="https://github-readme-stats.vercel.app/api/pin/?username=HaithamOumerzoug&repo=contact-manager-react-redux&theme=dark">
-</a>
-
-<a href="https://github.com/HaithamOumerzoug/Hosmoa-Bank-Front">
-<img alt="Hosmoa-Bank-Front" src="https://github-readme-stats.vercel.app/api/pin/?username=HaithamOumerzoug&repo=Hosmoa-Bank-Front&theme=dark">
-</a>
-<a href="https://github.com/HaithamOumerzoug/Saroot">
-<img alt="Saroot" src="https://github-readme-stats.vercel.app/api/pin/?username=HaithamOumerzoug&repo=Saroot&theme=dark">
-</a>
-
-<a href="https://github.com/HaithamOumerzoug/Co-voiturage-JavaFX">
-<img alt="Co-voiturage-JavaFX" src="https://github-readme-stats.vercel.app/api/pin/?username=HaithamOumerzoug&repo=Co-voiturage-JavaFX&theme=dark">
-</a>
-
-<a href="https://github.com/HaithamOumerzoug/Opticienne-Laravel-Vue.js">
-<img alt="Opt" src="https://github-readme-stats.vercel.app/api/pin/?username=HaithamOumerzoug&repo=Opticienne-Laravel-Vue.js&theme=dark">
-</a>
-</div>
-
 ---
 
 [website]: https://github.com/HaithamOumerzoug
